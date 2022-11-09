@@ -12,3 +12,8 @@ Tenho conhecimentos na area financeira/controladoria onde quero agregar todo o m
  3. CSS 
  4. Bootstrap 
  5. React
+ 
+ ⭐ Informações sobre minha conta GitHub
+ 
+ 
+[![card](https://github-readme-stats.vercel.app/api?username=viniciusleandro&theme=default)](https://github.com/viniciusleandro/github-readme-stats)
